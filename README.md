@@ -184,9 +184,9 @@ The following recording demonstrates the database schema, SQL views, and sample 
 
 The dashboard follows a **Star Schema** data model, enabling efficient relationships, DAX calculations, and interactive reporting.
 
-🎥 **Power BI Model View**
+🎥 **Power BI Star Schema**
 
-▶️ [View Model Walkthrough](Media/04_Model_View.mp4)
+▶️ [View Model Walkthrough](media/04_Model_View.mp4)
 
 ---
 
@@ -326,8 +326,9 @@ This dashboard enables decision-makers to:
 
 Aspiring Business Analyst | Data Analyst | Business Intelligence Enthusiast
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/bhuvan-g-naik/
-- 💻 GitHub: https://github.com/bhuvangnaik
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhuvan%20G%20Naik-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhuvan-g-naik/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-bhuvangnaik-black?style=for-the-badge&logo=github)](https://github.com/bhuvangnaik)
 
 ---
 
