@@ -9,7 +9,7 @@ End-to-End Business Intelligence solution built using PostgreSQL, SQL, Excel, an
 ---
 
 <p align="center">
-  <img src="screenshots/01_Business-Performance-Overview.png" width="70%">
+  <img src="screenshots/01_Business-Performance-Overview.png" width="85%">
 </p>
 
 ---
@@ -75,7 +75,7 @@ The project follows a structured Business Intelligence workflow, transforming ra
 ### End-to-End Workflow
 
 <p align="center">
-  <img src="docs/Project_Flowchart.png" alt="Project Workflow" width="70%">
+  <img src="docs/Project_Flowchart.png" alt="Project Workflow" width="80%">
 </p>
 
 ---
@@ -203,7 +203,7 @@ The solution consists of **seven interactive dashboard pages**, each designed to
 Provides an executive overview of revenue, profit, margin, customers, orders, product categories, and country-wise performance.
 
 <p align="center">
-  <img src="screenshots/01_Business-Performance-Overview.png" alt="Business Performance Overview" width="70%">
+  <img src="screenshots/01_Business-Performance-Overview.png" alt="Business Performance Overview" width="80%">
 </p>
 
 ---
@@ -215,7 +215,7 @@ Provides an executive overview of revenue, profit, margin, customers, orders, pr
 Evaluates pricing strategies across product categories to identify pricing opportunities.
 
 <p align="center">
-  <img src="screenshots/02_Pricing-Analysis.png" alt="Pricing Analysis" width="70%">
+  <img src="screenshots/02_Pricing-Analysis.png" alt="Pricing Analysis" width="80%">
 </p>
 
 ---
@@ -227,7 +227,7 @@ Evaluates pricing strategies across product categories to identify pricing oppor
 Measures the impact of discounts on revenue, profitability, and customer purchasing behavior.
 
 <p align="center">
-  <img src="screenshots/03_Discount-Optimization-Analysis.png" alt="Discount Optimization" width="70%">
+  <img src="screenshots/03_Discount-Optimization-Analysis.png" alt="Discount Optimization" width="80%">
 </p>
 
 ---
@@ -239,7 +239,7 @@ Measures the impact of discounts on revenue, profitability, and customer purchas
 Identifies top-performing and low-performing products using profitability analysis.
 
 <p align="center">
-  <img src="screenshots/04_Product-Intelligence-Dashboard.png" alt="Product Intelligence" width="70%">
+  <img src="screenshots/04_Product-Intelligence-Dashboard.png" alt="Product Intelligence" width="80%">
 </p>
 
 ---
@@ -251,7 +251,7 @@ Identifies top-performing and low-performing products using profitability analys
 Uses What-If Analysis to simulate pricing changes and evaluate their impact on revenue and profitability.
 
 <p align="center">
-  <img src="screenshots/05_Price-Sensitivity-&-Scenario-Analysis.png" alt="Price Sensitivity & Scenario Analysis" width="70%">
+  <img src="screenshots/05_Price-Sensitivity-&-Scenario-Analysis.png" alt="Price Sensitivity & Scenario Analysis" width="80%">
 </p>
 
 ---
@@ -263,7 +263,7 @@ Uses What-If Analysis to simulate pricing changes and evaluate their impact on r
 Summarizes analytical findings into actionable business insights.
 
 <p align="center">
-  <img src="screenshots/06_Strategic-Business-Insights.png" alt="Strategic Business Insights" width="70%">
+  <img src="screenshots/06_Strategic-Business-Insights.png" alt="Strategic Business Insights" width="80%">
 </p>
 
 ---
@@ -275,7 +275,7 @@ Summarizes analytical findings into actionable business insights.
 Presents strategic recommendations, action plans, and expected business impact.
 
 <p align="center">
-  <img src="screenshots/07_Executive-Recommendations-&-Business-Impact.png" alt="Executive Recommendations" width="70%">
+  <img src="screenshots/07_Executive-Recommendations-&-Business-Impact.png" alt="Executive Recommendations" width="80%">
 </p>
 
 ---
