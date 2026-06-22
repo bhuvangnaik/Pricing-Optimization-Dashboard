@@ -75,7 +75,7 @@ The project follows a structured Business Intelligence workflow, transforming ra
 ### End-to-End Workflow
 
 <p align="center">
-  <img src="Docs/Project_Flowchart.png" alt="Project Workflow" width="70%">
+  <img src="docs/Project_Flowchart.png" alt="Project Workflow" width="70%">
 </p>
 
 ---
